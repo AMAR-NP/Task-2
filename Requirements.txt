@@ -1,0 +1,33 @@
+(USE GOOGLE COLAB TO RUN THE CODE)
+
+Instructions to Run the Chatbot Code in Google Colab
+Open Google Colab
+
+Go to Google Colab.
+Create a New Notebook
+
+Click on File > New notebook.
+Install Required Libraries
+
+In a new code cell, type the following commands:
+python
+Copy code
+!pip install transformers torch
+Press Shift + Enter to run the cell and install the libraries.
+Add the Chatbot Code
+
+In a new code cell, paste the chatbot code provided.
+Run the Chatbot Code
+
+Click the play button next to the code cell or press Shift + Enter to execute the code.
+Interact with the Chatbot
+
+Type your messages in the input prompt and press Enter to get responses from the chatbot.
+To end the conversation, type exit and press Enter.
+This manual provides clear and concise instructions for setting up and running the chatbot code in Google Colab.
+
+
+
+
+
+
